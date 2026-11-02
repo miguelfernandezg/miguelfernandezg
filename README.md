@@ -1,6 +1,6 @@
 # Miguel Fernández González
 
-### Software Developer | Java · Kotlin · Python · SQL | Backend & Android
+### Software Developer | Java · Python · SQL | Backend Development
 
 Soy desarrollador de software con experiencia profesional en aplicaciones empresariales y desarrollo de proyectos con Java, Kotlin, Python, SQL y tecnologías web.
 
