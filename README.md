@@ -8,7 +8,7 @@ Durante mi etapa en Balidea Consulting & Programming trabajé sobre aplicaciones
 
 También tengo experiencia en desarrollo Android. Como Proyecto Fin de Ciclo desarrollé Porto-Muíños App, una aplicación con Kotlin y Jetpack Compose, arquitectura MVVM/Repository y backend con Supabase/PostgreSQL, incorporando autenticación, gestión de datos y lectura de códigos QR. El proyecto obtuvo una calificación de 10/10.
 
-Antes de orientar mi carrera hacia el sector tecnológico trabajé durante más de tres años como Educador Social, una experiencia que me aportó una base sólida en comunicación, trabajo en equipo, coordinación, resolución de problemas y adaptación a entornos complejos.
+Antes de orientar mi carrera hacia el sector tecnológico trabajé durante más de tres años como Educador Social en el Centro de Menores Montealegre, una experiencia que me aportó una base sólida en comunicación, trabajo en equipo, coordinación, resolución de problemas, adaptación a entornos complejos y una gran capacidad analítica.
 
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y actualmente estoy abierto a oportunidades en desarrollo de software, especialmente en Java/backend, Android y desarrollo de aplicaciones, donde pueda seguir creciendo técnicamente y contribuir a proyectos reales.
 
